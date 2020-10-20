@@ -1,0 +1,168 @@
+Inicia-se a descrição deste perímetro no vértice V0, de coordenadas N 7858954.496 m e E
+642740.683 m, Datum SIRGAS 2000 com Meridiano Central -45. Deste, segue com os seguintes azimute plano
+e distância:148º34’36.79’’ e 2037.95m; até o vértice V1, de coordenadas N 7857215.432 m e E 643803.175 m;
+deste, segue com os seguintes azimute plano e distância:139º25’5.71’’ e 856.22m; até o vértice V2, de coordenadas
+N 7856565.153 m e E 644360.173 m; deste, segue com os seguintes azimute plano e distância:159º15’49.99’’
+e 1763.40m; até o vértice V3, de coordenadas N 7854915.984 m e E 644984.530 m; deste, segue com os seguintes
+azimute plano e distância:159º35’11.91’’ e 1685.26m; até o vértice V4, de coordenadas N 7853336.557 m e
+E 645572.332 m; deste, segue com os seguintes azimute plano e distância:161º20’33.36’’ e 2267.00m; até o
+vértice V5, de coordenadas N 7851188.691 m e E 646297.565 m; deste, segue com os seguintes azimute plano
+e distância:70º24’34.53’’ e 478.24m; até o vértice V6, de coordenadas N 7851349.042 m e E 646748.120 m;
+deste, segue com os seguintes azimute plano e distância:142º49’7.16’’ e 5888.26m; até o vértice V7, de coordenadas
+N 7846657.705 m e E 650306.632 m; deste, segue com os seguintes azimute plano e distância:196º18’45.22’’
+e 1678.18m; até o vértice V8, de coordenadas N 7845047.077 m e E 649835.268 m; deste, segue com os seguintes
+azimute plano e distância:166º51’52.37’’ e 1050.07m; até o vértice V9, de coordenadas N 7844024.485 m e
+E 650073.900 m; deste, segue com os seguintes azimute plano e distância:168º08’1.41’’ e 832.82m; até o vértice
+V10, de coordenadas N 7843209.461 m e E 650245.151 m; deste, segue com os seguintes azimute plano e
+distância:191º03’39.69’’ e 1380.06m; até o vértice V11, de coordenadas N 7841855.041 m e E 649980.381 m;
+deste, segue com os seguintes azimute plano e distância:182º31’44.79’’ e 1448.60m; até o vértice V12, de coordenadas
+N 7840407.856 m e E 649916.459 m; deste, segue com os seguintes azimute plano e
+distância:159º11’56.26’’ e 784.61m; até o vértice V13, de coordenadas N 7839674.387 m e E 650195.093 m;
+deste, segue com os seguintes azimute plano e distância:163º24’29.83’’ e 1640.37m; até o vértice V14, de coordenadas
+N 7838102.315 m e E 650663.501 m; deste, segue com os seguintes azimute plano e
+distância:165º21’16.83’’ e 649.83m; até o vértice V15, de coordenadas N 7837473.601 m e E 650827.799 m;
+deste, segue com os seguintes azimute plano e distância:188º02’24.11’’ e 1709.91m; até o vértice V16, de coordenadas
+N 7835780.500 m e E 650588.643 m; deste, segue com os seguintes azimute plano e
+distância:313º12’22.33’’ e 899.64m; até o vértice V17, de coordenadas N 7836396.415 m e E 649932.902 m;
+deste, segue com os seguintes azimute plano e distância:316º47’4.32’’ e 684.88m; até o vértice V18, de coordenadas
+N 7836895.548 m e E 649463.932 m; deste, segue com os seguintes azimute plano e distância:331º40’42.51’’
+e 642.45m; até o vértice V19, de coordenadas N 7837461.097 m e E 649159.141 m; deste, segue com os
+seguintes azimute plano e distância:266º45’47.37’’ e 364.76m; até o vértice V20, de coordenadas N 7837440.502
+m e E 648794.966 m; deste, segue com os seguintes azimute plano e distância:213º52’35.64’’ e 343.77m; até o
+vértice V21, de coordenadas N 7837155.091 m e E 648603.347 m; deste, segue com os seguintes azimute plano
+e distância:189º32’30.06’’ e 889.62m; até o vértice V22, de coordenadas N 7836277.776 m e E 648455.879 m;
+deste, segue com os seguintes azimute plano e distância:214º22’31.19’’ e 352.86m; até o vértice V23, de coordenadas
+N 7835986.544 m e E 648256.652 m; deste, segue com os seguintes azimute plano e
+distância:288º46’43.94’’ e 401.23m; até o vértice V24, de coordenadas N 7836115.707 m e E 647876.780 m;
+deste, segue com os seguintes azimute plano e distância:354º56’13.05’’ e 1109.87m; até o vértice V25, de coordenadas
+N 7837221.248 m e E 647778.831 m; deste, segue com os seguintes azimute plano e
+distância:12º36’50.25’’ e 375.16m; até o vértice V26, de coordenadas N 7837587.349 m e E 647860.758 m;
+deste, segue com os seguintes azimute plano e distância:6º12’20.61’’ e 482.21m; até o vértice V27, de coordenadas
+N 7838066.734 m e E 647912.885 m; deste, segue com os seguintes azimute plano e distância:2º54’17.97’’
+e 1437.61m; até o vértice V28, de coordenadas N 7839502.496 m e E 647985.743 m; deste, segue com os
+seguintes azimute plano e distância:345º12’56.04’’ e 590.05m; até o vértice V29, de coordenadas N 7840073.013
+m e E 647835.171 m; deste, segue com os seguintes azimute plano e distância:321º28’41.87’’ e 535.97m; até
+o vértice V30, de coordenadas N 7840492.342 m e E 647501.362 m; deste, segue com os seguintes azimute
+plano e distância:212º15’31.91’’ e 638.03m; até o vértice V31, de coordenadas N 7839952.798 m e E 647160.819
+m; deste, segue com os seguintes azimute plano e distância:203º31’49.88’’ e 386.99m; até o vértice V32, de
+coordenadas N 7839597.984 m e E 647006.317 m; deste, segue com os seguintes azimute plano e
+distância:232º42’35.28’’ e 1006.11m; até o vértice V33, de coordenadas N 7838988.430 m e E 646205.878 m;
+deste, segue com os seguintes azimute plano e distância:276º04’57.38’’ e 693.83m; até o vértice V34, de coordenadas
+N 7839061.950 m e E 645515.951 m; deste, segue com os seguintes azimute plano e
+distância:222º38’46.54’’ e 561.04m; até o vértice V35, de coordenadas N 7838649.275 m e E 645135.862 m;
+deste, segue com os seguintes azimute plano e distância:197º06’9.45’’ e 776.18m; até o vértice V36, de coordenadas
+N 7837907.414 m e E 644907.598 m; deste, segue com os seguintes azimute plano e
+distância:151º44’40.22’’ e 911.69m; até o vértice V37, de coordenadas N 7837104.353 m e E 645339.198 m;
+deste, segue com os seguintes azimute plano e distância:175º33’25.90’’ e 876.23m; até o vértice V38, de coordenadas
+N 7836230.753 m e E 645407.075 m; deste, segue com os seguintes azimute plano e
+distância:192º41’19.07’’ e 711.59m; até o vértice V39, de coordenadas N 7835536.538 m e E 645250.771 m;
+deste, segue com os seguintes azimute plano e distância:196º55’38.38’’ e 425.97m; até o vértice V40, de coordenadas
+N 7835129.023 m e E 645126.746 m; deste, segue com os seguintes azimute plano e
+distância:266º02’19.80’’ e 548.54m; até o vértice V41, de coordenadas N 7835091.130 m e E 644579.515 m;
+deste, segue com os seguintes azimute plano e distância:324º41’57.94’’ e 608.15m; até o vértice V42, de coordenadas
+N 7835587.462 m e E 644228.085 m; deste, segue com os seguintes azimute plano e
+distância:10º47’49.02’’ e 539.14m; até o vértice V43, de coordenadas N 7836117.058 m e E 644329.082 m;
+deste, segue com os seguintes azimute plano e distância:299º49’11.02’’ e 592.28m; até o vértice V44, de coordenadas
+N 7836411.585 m e E 643815.219 m; deste, segue com os seguintes azimute plano e
+distância:334º57’24.45’’ e 703.11m; até o vértice V45, de coordenadas N 7837048.594 m e E 643517.592 m;
+deste, segue com os seguintes azimute plano e distância:347º42’29.48’’ e 751.06m; até o vértice V46, de coordenadas
+N 7837782.438 m e E 643357.698 m; deste, segue com os seguintes azimute plano e distância:0º36’20.02’’e 1781.61m; até o vértice V47, de coordenadas N 7839563.947 m e E 643376.528 m; deste, segue com os
+seguintes azimute plano e distância:302º37’6.87’’ e 598.57m; até o vértice V48, de coordenadas N 7839886.605
+m e E 642872.362 m; deste, segue com os seguintes azimute plano e distância:326º43’12.71’’ e 929.45m; até
+o vértice V49, de coordenadas N 7840663.628 m e E 642362.345 m; deste, segue com os seguintes azimute
+plano e distância:309º47’18.16’’ e 915.43m; até o vértice V50, de coordenadas N 7841249.461 m e E 641658.917
+m; deste, segue com os seguintes azimute plano e distância:351º01’38.52’’ e 233.07m; até o vértice V51, de
+coordenadas N 7841479.683 m e E 641622.566 m; deste, segue com os seguintes azimute plano e
+distância:330º28’33.61’’ e 1171.59m; até o vértice V52, de coordenadas N 7842499.137 m e E 641045.223 m;
+deste, segue com os seguintes azimute plano e distância:339º05’58.61’’ e 1022.06m; até o vértice V53, de coordenadas
+N 7843453.952 m e E 640680.607 m; deste, segue com os seguintes azimute plano e
+distância:17º18’36.91’’ e 639.41m; até o vértice V54, de coordenadas N 7844064.404 m e E 640870.862 m;
+deste, segue com os seguintes azimute plano e distância:56º34’13.87’’ e 811.95m; até o vértice V55, de coordenadas
+N 7844511.716 m e E 641548.487 m; deste, segue com os seguintes azimute plano e
+distância:142º02’40.33’’ e 598.94m; até o vértice V56, de coordenadas N 7844039.457 m e E 641916.866 m;
+deste, segue com os seguintes azimute plano e distância:146º59’35.67’’ e 443.96m; até o vértice V57, de coordenadas
+N 7843667.147 m e E 642158.709 m; deste, segue com os seguintes azimute plano e
+distância:114º27’38.11’’ e 472.49m; até o vértice V58, de coordenadas N 7843471.504 m e E 642588.791 m;
+deste, segue com os seguintes azimute plano e distância:140º52’57.57’’ e 202.10m; até o vértice V59, de coordenadas
+N 7843314.705 m e E 642716.297 m; deste, segue com os seguintes azimute plano e
+distância:214º21’1.94’’ e 186.89m; até o vértice V60, de coordenadas N 7843160.406 m e E 642610.842 m;
+deste, segue com os seguintes azimute plano e distância:192º15’28.83’’ e 289.03m; até o vértice V61, de coordenadas
+N 7842877.970 m e E 642549.478 m; deste, segue com os seguintes azimute plano e
+distância:72º14’10.71’’ e 409.40m; até o vértice V62, de coordenadas N 7843002.876 m e E 642939.361 m;
+deste, segue com os seguintes azimute plano e distância:16º37’52.70’’ e 388.80m; até o vértice V63, de coordenadas
+N 7843375.410 m e E 643050.640 m; deste, segue com os seguintes azimute plano e distância:8º22’25.70’’
+e 238.48m; até o vértice V64, de coordenadas N 7843611.352 m e E 643085.371 m; deste, segue com os
+seguintes azimute plano e distância:270º17’2.75’’ e 296.29m; até o vértice V65, de coordenadas N 7843612.821
+m e E 642789.080 m; deste, segue com os seguintes azimute plano e distância:300º36’47.62’’ e 371.83m; até
+o vértice V66, de coordenadas N 7843802.173 m e E 642469.071 m; deste, segue com os seguintes azimute
+plano e distância:340º59’19.48’’ e 168.88m; até o vértice V67, de coordenadas N 7843961.844 m e E 642414.057
+m; deste, segue com os seguintes azimute plano e distância:313º45’14.20’’ e 240.02m; até o vértice V68, de
+coordenadas N 7844127.831 m e E 642240.689 m; deste, segue com os seguintes azimute plano e
+distância:38º25’32.89’’ e 316.40m; até o vértice V69, de coordenadas N 7844375.700 m e E 642437.330 m;
+deste, segue com os seguintes azimute plano e distância:357º01’11.01’’ e 157.29m; até o vértice V70, de coordenadas
+N 7844532.782 m e E 642429.152 m; deste, segue com os seguintes azimute plano e
+distância:250º37’8.02’’ e 298.96m; até o vértice V71, de coordenadas N 7844433.571 m e E 642147.130 m;
+deste, segue com os seguintes azimute plano e distância:312º53’7.96’’ e 96.52m; até o vértice V72, de coordenadas
+N 7844499.258 m e E 642076.406 m; deste, segue com os seguintes azimute plano e distância:44º52’34.95’’
+e 125.96m; até o vértice V73, de coordenadas N 7844588.520 m e E 642165.283 m; deste, segue com os
+seguintes azimute plano e distância:295º23’14.88’’ e 180.30m; até o vértice V74, de coordenadas N 7844665.823
+m e E 642002.392 m; deste, segue com os seguintes azimute plano e distância:241º27’48.37’’ e 167.70m; até
+o vértice V75, de coordenadas N 7844585.708 m e E 641855.063 m; deste, segue com os seguintes azimute
+plano e distância:301º20’45.02’’ e 202.30m; até o vértice V76, de coordenadas N 7844690.943 m e E 641682.294
+m; deste, segue com os seguintes azimute plano e distância:14º19’11.77’’ e 240.45m; até o vértice V77, de
+coordenadas N 7844923.923 m e E 641741.766 m; deste, segue com os seguintes azimute plano e
+distância:51º32’27.94’’ e 451.52m; até o vértice V78, de coordenadas N 7845204.750 m e E 642095.334 m;
+deste, segue com os seguintes azimute plano e distância:73º40’37.67’’ e 658.25m; até o vértice V79, de coordenadas
+N 7845389.751 m e E 642727.052 m; deste, segue com os seguintes azimute plano e
+distância:50º00’43.06’’ e 789.79m; até o vértice V80, de coordenadas N 7845897.290 m e E 643332.170 m;
+deste, segue com os seguintes azimute plano e distância:29º07’10.91’’ e 946.24m; até o vértice V81, de coordenadas
+N 7846723.926 m e E 643792.642 m; deste, segue com os seguintes azimute plano e
+distância:41º33’58.67’’ e 739.88m; até o vértice V82, de coordenadas N 7847277.493 m e E 644283.539 m;
+deste, segue com os seguintes azimute plano e distância:14º40’17.53’’ e 414.71m; até o vértice V83, de coordenadas
+N 7847678.676 m e E 644388.575 m; deste, segue com os seguintes azimute plano e
+distância:337º31’48.81’’ e 403.67m; até o vértice V84, de coordenadas N 7848051.701 m e E 644234.293 m;
+deste, segue com os seguintes azimute plano e distância:34º35’45.58’’ e 444.78m; até o vértice V85, de coordenadas
+N 7848417.831 m e E 644486.832 m; deste, segue com os seguintes azimute plano e
+distância:356º10’14.86’’ e 1289.17m; até o vértice V86, de coordenadas N 7849704.123 m e E 644400.738 m;
+deste, segue com os seguintes azimute plano e distância:99º10’1.91’’ e 357.87m; até o vértice V87, de coordenadas
+N 7849647.109 m e E 644754.034 m; deste, segue com os seguintes azimute plano e distância:131º50’54.35’’
+e 737.59m; até o vértice V88, de coordenadas N 7849155.016 m e E 645303.475 m; deste, segue com os
+seguintes azimute plano e distância:102º27’36.74’’ e 192.09m; até o vértice V89, de coordenadas N 7849113.570
+m e E 645491.041 m; deste, segue com os seguintes azimute plano e distância:31º42’19.68’’ e 171.44m; até o
+vértice V90, de coordenadas N 7849259.426 m e E 645581.142 m; deste, segue com os seguintes azimute
+plano e distância:348º53’11.45’’ e 806.69m; até o vértice V91, de coordenadas N 7850050.992 m e E 645425.650
+m; deste, segue com os seguintes azimute plano e distância:355º30’54.60’’ e 575.27m; até o vértice V92, de
+coordenadas N 7850624.497 m e E 645380.667 m; deste, segue com os seguintes azimute plano e
+distância:3º03’53.47’’ e 412.68m; até o vértice V93, de coordenadas N 7851036.585 m e E 645402.731 m;
+deste, segue com os seguintes azimute plano e distância:332º00’50.91’’ e 517.95m; até o vértice V94, de coordenadas
+N 7851493.967 m e E 645159.681 m; deste, segue com os seguintes azimute plano e
+distância:292º55’45.90’’ e 685.74m; até o vértice V95, de coordenadas N 7851761.131 m e E 644528.120 m;
+deste, segue com os seguintes azimute plano e distância:346º32’0.48’’ e 510.82m; até o vértice V96, de coordenadas
+N 7852257.908 m e E 644409.162 m; deste, segue com os seguintes azimute plano e
+distância:290º22’38.06’’ e 676.89m; até o vértice V97, de coordenadas N 7852493.602 m e E 643774.628 m;
+deste, segue com os seguintes azimute plano e distância:211º36’56.46’’ e 660.13m; até o vértice V98, de coordenadas
+N 7851931.445 m e E 643428.575 m; deste, segue com os seguintes azimute plano e
+distância:290º22’26.47’’ e 400.72m; até o vértice V99, de coordenadas N 7852070.955 m e E 643052.923 m;
+deste, segue com os seguintes azimute plano e distância:353º49’55.91’’ e 523.06m; até o vértice V100, de coordenadas
+N 7852590.989 m e E 642996.725 m; deste, segue com os seguintes azimute plano e distância:5º45’7.21’’
+e 338.02m; até o vértice V101, de coordenadas N 7852927.306 m e E 643030.602 m; deste, segue com os
+seguintes azimute plano e distância:22º25’59.48’’ e 709.20m; até o vértice V102, de coordenadas N 7853582.833
+m e E 643301.236 m; deste, segue com os seguintes azimute plano e distância:54º36’25.90’’ e 551.82m; até o
+vértice V103, de coordenadas N 7853902.434 m e E 643751.078 m; deste, segue com os seguintes azimute
+plano e distância:28º17’0.66’’ e 485.69m; até o vértice V104, de coordenadas N 7854330.143 m e E 643981.217
+m; deste, segue com os seguintes azimute plano e distância:31º47’57.08’’ e 376.31m; até o vértice V105, de
+coordenadas N 7854649.967 m e E 644179.509 m; deste, segue com os seguintes azimute plano e
+distância:15º25’25.63’’ e 330.53m; até o vértice V106, de coordenadas N 7854968.591 m e E 644267.415 m;
+deste, segue com os seguintes azimute plano e distância:305º58’11.32’’ e 427.37m; até o vértice V107, de coordenadas
+N 7855219.614 m e E 643921.530 m; deste, segue com os seguintes azimute plano e
+distância:339º13’4.14’’ e 785.30m; até o vértice V108, de coordenadas N 7855953.817 m e E 643642.893 m;
+deste, segue com os seguintes azimute plano e distância:310º01’2.94’’ e 996.46m; até o vértice V109, de coordenadas
+N 7856594.565 m e E 642879.753 m; deste, segue com os seguintes azimute plano e
+distância:350º42’19.07’’ e 1432.67m; até o vértice V110, de coordenadas N 7858008.423 m e E 642648.359 m;
+deste, segue com os seguintes azimute plano e distância:359º14’34.55’’ e 830.57m; até o vértice V111, de coordenadas
+N 7858838.919 m e E 642637.385 m; deste, segue com os seguintes azimute plano e
+distância:41º47’20.23’’ e 155.01m; até o vértice V0, de coordenadas N 7858954.496 m e E 642740.683 m,
+encerrando esta descrição. Todas as coordenadas aqui descritas estão georrefereciadas ao Sistema Geodésico
+Brasileiro e encontram-se representadas no sistema UTM, referenciadas ao Meridiano Central -45, tendo como
+DATUM SIRGAS 2000 .Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção
+UTM.
