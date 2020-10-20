@@ -1,5 +1,5 @@
 # extraiDecreto48063
-Script para extração de coordenadas a partir do texto do Decreto Estadual (MG) 48.063 (16/10/2020)
+Script para extração de coordenadas a partir do texto do Decreto Estadual (MG), Decreto Nº 48.063, de 15 de Outubro de 2020.
 # Procedimentos
 - Arquivo de origem PDF obtido do Diário Oficial de MG (16/10/2020) https://www.jornalminasgerais.mg.gov.br/?dataJornal=2020-10-16
 - PDF exportado para MS Word (.DOC) para facilitar manipulação
